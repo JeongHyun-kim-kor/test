@@ -28,5 +28,8 @@ public class Main {
 
 
         System.out.println(listA);
+
+        Test1 test1 = new Test1();
+
     }
 }
