@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Test2 {
 
     // Scanner 라이브러리를 이용한 사칙연산 프로그램 + while문 사용하기
-    public static void main(String[] args) {
+    public  void calculator(){
 
         Scanner sc = new Scanner((System.in));
 

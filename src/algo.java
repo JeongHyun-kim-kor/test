@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 
 public class algo {
-    public int[] solution(int n) {
-
+    public int[] solution() {
+    int n = 15;
         ArrayList <Integer> list = new ArrayList<>();
         for(int i = 1; i<= n ; i++){
             if(n % i == 0){
