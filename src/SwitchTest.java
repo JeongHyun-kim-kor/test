@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class SwitchTest {
 
-                public void NormalSwitch(){
+                public void normalSwitch(){
 
                     System.out.print("번호를 입력해주세요 : ");
                     Scanner sc = new Scanner(System.in);

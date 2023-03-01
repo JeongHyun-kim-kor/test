@@ -39,12 +39,15 @@ public class Main {
 //        ifTest.normalIf();
 //
 //        SwitchTest st = new SwitchTest();
-//        st.NormalSwitch();
+//        st.normalSwitch();
 //
 //        ForTest ft = new ForTest();
 //        ft.gugudan();
 
-        LottoTest lt = new LottoTest();
-        lt.Lotto();
+//        LottoTest lt = new LottoTest();
+//        lt.lotto();
+
+        CalculatorTest ct = new CalculatorTest();
+        ct.calculator();
     }
 }

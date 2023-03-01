@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class LottoTest {
 
-    public void Lotto(){
+    public void lotto(){
 
         // 로또 번호를 입력받을 배열 선언
         int [] lotto = new int[6];
